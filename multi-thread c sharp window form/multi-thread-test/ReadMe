@@ -1,0 +1,2 @@
+The mainwindow has a Text and a Button.
+Click the button to change the string of Text in another thread with delegate.
